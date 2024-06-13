@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# Learn_Assembly
-It stores my Assembly source files.
+https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white
+# x64 Assembly for MASM
 ![Bookcover](./bookcover.jpg)
 =======
 # Coding_Exercises_Archive
