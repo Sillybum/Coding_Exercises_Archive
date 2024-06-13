@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# Learn_MASM
-It stores my Masm source files.
+# Learn_Assembly
+It stores my Assembly source files.
 ![Bookcover](./bookcover.jpg)
 =======
 # Coding_Exercises_Archive
